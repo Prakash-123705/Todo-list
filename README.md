@@ -26,6 +26,10 @@ You can run this project locally by simply opening `index.html` in your browser.
 
 ![App Screenshot](<img width="471" alt="output" src="https://github.com/user-attachments/assets/8231b2a1-4290-4ed4-b17d-854a2f76bbab" />
 )
+<img width="359" alt="completed task" src="https://github.com/user-attachments/assets/d0ab5023-f45d-4218-9e32-5c59d7bd45e0" />
+<img width="397" alt="deleted task" src="https://github.com/user-attachments/assets/51d119f7-e347-40b5-8b8b-4b56b2edd9a7" />
+
+
 
 ## 📌 Technologies Used
 
